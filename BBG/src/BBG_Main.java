@@ -5,7 +5,8 @@ public class BBG_Main {
 		// TODO Auto-generated method stub
 		System.out.print("Hello, Wolrd!");		
 		System.out.print("Hello, Wolrd!");		
-
+		System.out.print("Hello, Wolrd!");	
+		System.out.print("Hello, Wolrd!");	
 		
 	}
 
